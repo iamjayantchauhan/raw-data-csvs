@@ -1,0 +1,56 @@
+﻿STUDENT IDENTIFIER,Student Identifier
+STDNT_AGE,Age of the Student Enrolled
+STDNT_GENDER,Gender of the student
+STDNT_BACKGROUND,Backgroud of Student
+IN_STATE_FLAG,Indicator of whether Student is in same state as university
+INTERNATIONAL_STS,Indicator of whether Student is an International Student
+STDNT_MAJOR,Student's Major course in University
+STDNT_MINOR,Student's Minor course in University
+STDNT_TEST_ENTRANCE1,Student's Entrance 1 score
+STDNT_TEST_ENTRANCE2,Student's Entrance 2 score
+STDNT_TEST_ENTRANCE_COMB,Student's score calculated both on Entrance1 & Entrance2 score
+FIRST_TERM,First semester year
+CORE_COURSE_NAME_1_F,Core course 1 opted in First semester
+CORE_COURSE_GRADE_1_F,Grade in Core course 1 opted in First semester
+CORE_COURSE_NAME_2_F,Core course 2 opted in First semester
+CORE_COURSE_GRADE_2_F,Grade in Core course 2 opted in First semester
+CORE_COURSE_NAME_3_F,Core course 3 opted in First semester
+CORE_COURSE_GRADE_3_F,Grade in Core course 3 opted in First semester
+CORE_COURSE_NAME_4_F,Core course 4 opted in First semester
+CORE_COURSE_GRADE_4_F,Grade in Core course 4 opted in First semester
+CORE_COURSE_NAME_5_F,Core course 5 opted in First semester
+CORE_COURSE_GRADE_5_F,Grade in Core course 5 opted in First semester
+CORE_COURSE_NAME_6_F,Core course 6 opted in First semester
+CORE_COURSE_GRADE_6_F,Grade in Core course 6 opted in First semester
+SECOND_TERM,Second semester year
+CORE_COURSE_NAME_1_S,Core course 1 opted in Second semester
+CORE_COURSE_GRADE_1_S,Grade in Core course 1 opted in Second semester
+CORE_COURSE_NAME_2_S,Core course 2 opted in Second semester
+CORE_COURSE_GRADE_2_S,Grade in Core course 2 opted in Second semester
+CORE_COURSE_NAME_3_S,Core course 3 opted in Second semester
+CORE_COURSE_GRADE_3_S,Grade in Core course 3 opted in Second semester
+CORE_COURSE_NAME_4_S,Core course 4 opted in Second semester
+CORE_COURSE_GRADE_4_S,Grade in Core course 4 opted in Second semester
+CORE_COURSE_NAME_5_S,Core course 5 opted in Second semester
+CORE_COURSE_GRADE_5_S,Grade in Core course 5 opted in Second semester
+CORE_COURSE_NAME_6_S,Core course 6 opted in Second semester
+CORE_COURSE_GRADE_6_S,Grade in Core course 6 opted in Second semester
+HOUSING_STS,Indicator of whether the student is staying in campus or outside
+RETURNED_2ND_YR,Indicates whether the student came back to First semester in 2nd year
+DISTANCE_FROM_HOME,Distance from the university to student's home
+HIGH_SCHL_GPA,Student's High School GPA score
+HIGH_SCHL_NAME,High School from where the student graduated
+FATHER_HI_EDU_CD,Father's educational status code
+FATHER_HI_EDU_DESC,Father's educational status
+MOTHER_HI_EDU_CD,Mother's educational status code
+MOTHER_HI_EDU_DESC,Mother's educational status
+DEGREE_GROUP_CD,Degree code for which student has enrolled in university
+DEGREE_GROUP_DESC,Degree for which student has enrolled in university
+FIRST_TERM_ATTEMPT_HRS,# Hours attempted by student(Or # Grade points attempted by Student in First semester) 
+FIRST_TERM_EARNED_HRS,# Hours earned by student(Or # Grade points earned by Student in First semester) 
+SECOND_TERM_ATTEMPT_HRS,# Hours attempted by student(Or # Grade points attempted by Student in Second semester) 
+SECOND_TERM_EARNED_HRS,# Hours earned by student(Or # Grade points earned by Student in Second semester) 
+GROSS_FIN_NEED,Financial need of Student
+COST_OF_ATTEND,Course Fees
+EST_FAM_CONTRIBUTION,Estimated Family contribution towards course fees
+UNMET_NEED,Unmet financial need of the student
